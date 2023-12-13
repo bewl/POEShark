@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POEShark", "POEShark\POEShark.csproj", "{720D31FC-B8FA-4296-A055-BB25DCDADACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POEShark.Commands", "POEShark.Commands\POEShark.Commands.csproj", "{0B4EC3DF-15C2-4814-9B92-AF8CECB23C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POEShark.Core", "POEShark.Core\POEShark.Core.csproj", "{F693B366-587B-4683-9CEF-4D7248ABA472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720D31FC-B8FA-4296-A055-BB25DCDADACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720D31FC-B8FA-4296-A055-BB25DCDADACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720D31FC-B8FA-4296-A055-BB25DCDADACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720D31FC-B8FA-4296-A055-BB25DCDADACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4EC3DF-15C2-4814-9B92-AF8CECB23C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4EC3DF-15C2-4814-9B92-AF8CECB23C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4EC3DF-15C2-4814-9B92-AF8CECB23C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4EC3DF-15C2-4814-9B92-AF8CECB23C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F693B366-587B-4683-9CEF-4D7248ABA472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F693B366-587B-4683-9CEF-4D7248ABA472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F693B366-587B-4683-9CEF-4D7248ABA472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F693B366-587B-4683-9CEF-4D7248ABA472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8409ABB-78CF-4B8C-990C-281F5696FE29}
+	EndGlobalSection
+EndGlobal
